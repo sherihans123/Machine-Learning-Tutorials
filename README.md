@@ -81,6 +81,7 @@
 - [edX course | Klein & Abbeel](https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/info)
 - [Udacity Course | Norvig & Thrun](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
 - [TED talks on AI](http://www.ted.com/playlists/310/talks_on_artificial_intelligen)
+- [Artificial Intelligence Tutorial](https://intellipaat.com/blog/tutorial/artificial-intelligence-tutorial/)
 
 <a name="ga" />
 ##Genetic Algorithms
